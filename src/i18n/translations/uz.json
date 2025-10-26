@@ -1,0 +1,159 @@
+{
+  "productCard": {
+    "topItemsCardButton": "Buyurtma berish",
+    "goCart": "Savatga o‘tish",
+    "ta": "dona",
+    "noStock": "Sotuvda yo‘q"
+  },
+  "welcomeScreen": {
+    "startBtn": "Boshlash"
+  },
+  "login": {
+    "headertxt1": "Profilga kirish",
+    "headertxt2": "Profilga kirish uchun telefon raqamingizni kiriting",
+    "btn": "Keyingisi",
+    "errAlertH": "Xato",
+    "errAlertB1": "Sizning hisobingiz faol emas, iltimos, Furni Asia jamoasiga murojaat qiling!",
+    "errAlertB2": "Siz Furni Asia mijozlar bazasida topilmadingiz, iltimos, Furni Asia jamoasiga murojaat qiling!"
+  },
+  "Verification": {
+    "headertxt1": "6 raqamli SMS-kodni kiriting",
+    "placeHolder1": "Ismingizni kiriting...",
+    "errAlertH": "Xato",
+    "errAlertB1": "Kiritilgan kod noto‘g‘ri, iltimos, tekshirib qayta urinib ko‘ring!",
+    "errAlertB2": "Maʼlumotlarni yangilashda xato"
+  },
+  "PIN": {
+    "exit": "Chiqish",
+    "newPin": "Yangi PIN-kod o‘rnatish",
+    "pin": "Xush kelibsiz !",
+    "setNewPin": "Iltimos, yangi 4 xonali PIN-kod yarating",
+    "setPin": "4 xonali PIN-kodni kiriting",
+    "errorCode": "Xato",
+    "errorText": "Noto‘g‘ri PIN! Qayta urinib ko‘ring."
+  },
+  "setting": {
+    "editProfile": "Profilni tahrirlash",
+    "editLang": "Tilni o‘zgartirish",
+    "orderStatus": "Buyurtmalar",
+    "comment": "Fikr qoldirish",
+    "changeName": "Ismni o‘zgartirish",
+    "changeNumber": "Raqamni o‘zgartirish",
+    "btn": "Saqlash",
+    "errAlertH": "Xato",
+    "errAlertB1": "Maʼlumotlarni yangilashda xato",
+    "errAlertB2": "To‘g‘ri telefon raqamini kiriting!",
+    "success": "Muvaffaqiyatli",
+    "successText": "Maʼlumotlar muvaffaqiyatli o‘zgartirildi!",
+    "loading": "Yuklanmoqda..."
+  },
+  "home": {
+    "btn1": "Statistika",
+    "btn2": "Bonuslar",
+    "btn3": "Tarix",
+    "header1": "Retro-bonusgacha qolgandi: ",
+    "header2": "Siz sotib olgan mahsulotlar summasi: ",
+    "monthly": "Oylik",
+    "monthly1": "Bir oy uchun: ",
+    "quarterly": "Choraklik",
+    "quarterly1": "Bir chorak uchun: ",
+    "promotions": "Aksiyalar",
+    "text": "Oxirgi bonuslar topilmadi",
+    "noItems": "Aksiya mahsulotlari topilmadi",
+    "noUserData": "Foydalanuvchi ma'lumotlari topilmadi",
+    "noStories": "Yangiliklar yo‘q",
+    "loading": "Yuklanmoqda..."
+  },
+  "layout": {
+    "home": "Bosh sahifa",
+    "market": "Do‘kon",
+    "location": "Do'konlar",
+    "more": "Profil",
+    "orders": "Buyurtmalar",
+    "cart": "Savat"
+  },
+  "app": {
+    "modaltext1": "Rostan ham chiqmoqchimisiz?",
+    "exit": "Chiqish",
+    "back": "Orqaga"
+  },
+  "qrCode": {
+    "text1": "QR-kodni kassirga ko‘rsating"
+  },
+  "location": {
+    "noLocation": "Do‘kon manzili ko‘rsatilmagan ((",
+    "button": "Xaritada ochish"
+  },
+  "cart": {
+    "txt1": "Buyurtma berish",
+    "type": "Tanlang",
+    "toastS": "Muvaffaqiyatli",
+    "toastSuccess": "Buyurtma muvaffaqiyatli resmiylashtirildi",
+    "selectLoc": "Manzilni kiriting...",
+    "selLoc": "Manzil kiritildi",
+    "selectMar": "Do‘konni tanlang",
+    "delMet1": "Yetkazib berish",
+    "delMet2": "Olib ketish",
+    "total": "Jami ",
+    "inStock": "Sotuvda mavjud",
+    "clear": "Tozalash",
+    "emptyCart": "Savat bo‘sh",
+    "comments": "Buyurtmaga izoh",
+    "comment": "Izoh kiriting...",
+    "cancel": "Bekor qilish",
+    "confirm": "Tasdiqlash",
+    "error": "Xato",
+    "errorText": "Buyurtma berishda xato",
+    "confirm_clear": "Savatni tozalashni xohlaysizmi?",
+    "freeItem": "Bonus"
+  },
+  "orders": {
+    "new": "Yangi",
+    "all": "Barchasi",
+    "noOrders": "Hozircha faol buyurtmalar yo‘q",
+    "goMagazine": "Do‘konga o‘tish"
+  },
+  "order": {
+    "title": "Buyurtma",
+    "date": "Buyurtma sanasi:",
+    "totalCost": "Umumiy narx:",
+    "products": "Mahsulotlar",
+    "quantity": "Miqdor: ",
+    "price": "Narx: "
+  },
+  "history": {
+    "history": "Tarix"
+  },
+  "comment": {
+    "header": "Fikr qoldirish",
+    "text": "Xabaringiz",
+    "btn": "Yuborish",
+    "type": "Iltimos, tanlang...",
+    "c": "Shikoyat",
+    "s": "Taklif",
+    "textInp": "Matn kiriting...",
+    "success": "Muvaffaqiyatli",
+    "successText": "Xabaringiz muvaffaqiyatli yuborildi!"
+  },
+  "historyDetails": {
+    "title1": "Sotuv",
+    "title2": "Qaytarish",
+    "date": "Sana:",
+    "totalCost": "Umumiy narx:",
+    "products": "Mahsulotlar",
+    "quantity": "Miqdor: ",
+    "price": "Narx: "
+  },
+  "stories": {
+    "goToLink": "O‘tish"
+  },
+  "market": {
+    "noEpty": "Maʼlumotlar yuklanmadi :-( Keyinroq qayta urinib ko‘ring",
+    "search": "Nomi bo‘yicha qidirish",
+    "loading": "Yuklanmoqda..."
+  },
+  "notifications": {
+    "title": "Bildirishnomalar",
+    "noData": "Bildirishnomalar topilmadi"
+  }
+}

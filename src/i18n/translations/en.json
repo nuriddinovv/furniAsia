@@ -1,0 +1,159 @@
+{
+  "productCard": {
+    "topItemsCardButton": "Order",
+    "goCart": "Go to Cart",
+    "ta": "pcs",
+    "noStock": "Out of Stock"
+  },
+  "welcomeScreen": {
+    "startBtn": "Start"
+  },
+  "login": {
+    "headertxt1": "Login",
+    "headertxt2": "Enter your phone number to log in",
+    "btn": "Next",
+    "errAlertH": "Error",
+    "errAlertB1": "Your account is not active, please contact the Furni Asia team!",
+    "errAlertB2": "You were not found in the Furni Asia customer database, please contact the Furni Asia team!"
+  },
+  "Verification": {
+    "headertxt1": "Enter the 6-digit SMS code",
+    "placeHolder1": "Enter your name...",
+    "errAlertH": "Error",
+    "errAlertB1": "The entered code is incorrect, please check and try again!",
+    "errAlertB2": "Error updating data"
+  },
+  "PIN": {
+    "exit": "Exit",
+    "newPin": "Set New PIN",
+    "pin": "Welcome back !",
+    "setNewPin": "Please create a new 4-digit PIN",
+    "setPin": "Enter a 4-digit PIN",
+    "errorCode": "Error",
+    "errorText": "Wrong PIN! Try again."
+  },
+  "setting": {
+    "editProfile": "Edit Profile",
+    "editLang": "Change Language",
+    "orderStatus": "Orders",
+    "comment": "Leave Feedback",
+    "changeName": "Change Name",
+    "changeNumber": "Change Number",
+    "btn": "Save",
+    "errAlertH": "Error",
+    "errAlertB1": "Error updating data",
+    "errAlertB2": "Please enter a valid phone number or name!",
+    "success": "Success",
+    "successText": "Data successfully changed!",
+    "loading": "Loading..."
+  },
+  "home": {
+    "btn1": "Statistics",
+    "btn2": "Bonuses",
+    "btn3": "History",
+    "header1": "Time left until retro-bonus: ",
+    "header2": "You have made purchases totaling: ",
+    "monthly": "Monthly",
+    "monthly1": "For one month: ",
+    "quarterly": "Quarterly",
+    "quarterly1": "For one quarter: ",
+    "promotions": "Promotions",
+    "text": "No recent bonuses found",
+    "noItems": "No promotional items found",
+    "noUserData": "User data not found",
+    "noStories": "No stories available",
+    "loading": "Loading..."
+  },
+  "layout": {
+    "home": "Home",
+    "market": "Market",
+    "location": "Shops",
+    "more": "Profile",
+    "orders": "Orders",
+    "cart": "Cart"
+  },
+  "app": {
+    "modaltext1": "Do you really want to exit?",
+    "exit": "Exit",
+    "back": "Back"
+  },
+  "qrCode": {
+    "text1": "Show the QR code to the cashier"
+  },
+  "location": {
+    "noLocation": "Store address not specified ((",
+    "button": "Open in Maps"
+  },
+  "cart": {
+    "txt1": "Checkout",
+    "type": "Select",
+    "toastS": "Success",
+    "toastSuccess": "Order successfully added",
+    "selectLoc": "Enter address...",
+    "selLoc": "Address entered",
+    "selectMar": "Select Store",
+    "delMet1": "Delivery",
+    "delMet2": "Pickup",
+    "total": "Total ",
+    "inStock": "In Stock",
+    "clear": "Clear Cart",
+    "emptyCart": "Cart is Empty",
+    "comments": "Order Comment",
+    "comment": "Enter comment...",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "error": "Error",
+    "errorText": "Error placing order",
+    "confirm_clear": "Are you sure you want to clear the cart?",
+    "freeItem": "Bonus"
+  },
+  "orders": {
+    "new": "New",
+    "all": "All",
+    "noOrders": "No active orders yet",
+    "goMagazine": "Go to Store"
+  },
+  "order": {
+    "title": "Order",
+    "date": "Order Date:",
+    "totalCost": "Total Price:",
+    "products": "Products",
+    "quantity": "Quantity: ",
+    "price": "Price: "
+  },
+  "history": {
+    "history": "History"
+  },
+  "comment": {
+    "header": "Leave Feedback",
+    "text": "Your Message",
+    "btn": "Send",
+    "type": "Please select...",
+    "c": "Complaint",
+    "s": "Suggestion",
+    "textInp": "Enter text...",
+    "success": "Success",
+    "successText": "Your message has been sent successfully!"
+  },
+  "historyDetails": {
+    "title1": "Sale",
+    "title2": "Returns",
+    "date": "Date:",
+    "totalCost": "Total Price:",
+    "products": "Products",
+    "quantity": "Quantity: ",
+    "price": "Price: "
+  },
+  "stories": {
+    "goToLink": "Go"
+  },
+  "market": {
+    "noEpty": "Data not loaded :-( Please try again later",
+    "search": "Search by name",
+    "loading": "Loading..."
+  },
+  "notifications": {
+    "title": "Notifications",
+    "noData": "No notifications found"
+  }
+}
