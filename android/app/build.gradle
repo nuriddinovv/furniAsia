@@ -1,11 +1,9 @@
 apply plugin: "com.android.application"
 apply plugin: "org.jetbrains.kotlin.android"
 apply plugin: "com.facebook.react"
-
 apply from: file("../../node_modules/react-native-vector-icons/fonts.gradle")
 
 react {
-    /* Autolinking */
     autolinkLibrariesWithApp()
 }
 
@@ -26,7 +24,6 @@ android {
         versionCode 1
         versionName "1.0"
     }
-
     signingConfigs {
         debug {
             storeFile file('debug.keystore')
@@ -35,12 +32,13 @@ android {
             keyPassword 'android'
         }
     }
-
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
         }
         release {
+            // Caution! In production, you need to generate your own keystore file.
+            // see https://reactnative.dev/docs/signed-apk-android.
             signingConfig signingConfigs.debug
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
@@ -49,10 +47,9 @@ android {
 }
 
 dependencies {
-    // React Native core
+    // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
 
-    // Hermes / JSC
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
     } else {
